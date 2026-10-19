@@ -1,0 +1,5 @@
+Maria|5|COLLEGE|Nice college (KTF), close with Meranti
+Sarah|3|COLLEGE|Limited parking slots
+Mirah|5|BUS|Bus on time
+mai|3|BUS|rosak
+Jamal|5|FOOD|Banyak pilihan
